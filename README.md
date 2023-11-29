@@ -13,21 +13,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim :</h3>
-
-###
-
-<p align="left">Eu sou de São Paulo<br><br>- 🔭 Venho procurando oportunidade na área da Ciência de Dados<br>- 📚 Atualmente estudo algoritmos de ML e Data Scraping.<br>- ⚡ No meu tempo livre gosto de assistir animes.</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas :</h3>
-
-###
-
 <br clear="both">
 
-<h3 align="left">🔥   Meus Status :</h3>
+<h2 align="left">👩‍💻  Sobre mim :</h2>
 
 ###
 
@@ -37,32 +25,48 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oLincoln&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left">Eu sou de São Paulo<br><br>- 🔭 Venho procurando oportunidade na área da Ciência de Dados<br>- 📚 Atualmente estudo algoritmos de ML e Data Scraping.<br>- ⚡ No meu tempo livre gosto de assistir animes.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🛠 Linguagens e Ferramentas :</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="110" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="110" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="110" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="110" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="80" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="110" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="110" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="80" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="110" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="80" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="110" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="80" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="110" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🔥   Meus Status :</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=oLincoln&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
