@@ -6,18 +6,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
 </div>
 
 ###
 
 <h3 align="left">👩‍💻  Sobre mim :</h3>
-
-###
-
-<img align="right" height="300" src="https://i.pinimg.com/originals/d7/e2/35/d7e235424bb8c92823fc8f377826142c.gif"  />
 
 ###
 
@@ -29,7 +25,15 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🔥   Meus Status :</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://i.pinimg.com/originals/d7/e2/35/d7e235424bb8c92823fc8f377826142c.gif"  />
 
 ###
 
@@ -38,6 +42,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
